@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Start at the beginning",
   "description": "A Mozilla Firefox add-on that lets you start YouTube videos at the beginning.",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "permissions": [
     "storage"
   ],
@@ -42,7 +42,7 @@
       ]
     }
   ],
-  "homepage_url": "https://www.nwawsoft.com,",
+  "homepage_url": "https://www.nwawsoft.com/start-at-the-beginning-firefox/",
   "author": "Nico Wawrzyniak",
   "browser_specific_settings": {
     "gecko": {
